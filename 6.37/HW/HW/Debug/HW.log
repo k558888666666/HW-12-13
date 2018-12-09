@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+c:\users\fte\desktop\107360228_陳曾豪\6.37\source\main.c(20): error C2086: 'int max': 重複定義
+  c:\users\fte\desktop\107360228_陳曾豪\6.37\source\main.c(19): note: 請參閱 'max' 的宣告
+c:\users\fte\desktop\107360228_陳曾豪\6.37\source\main.c(22): warning C4020: 'reverse': 實質參數太多
